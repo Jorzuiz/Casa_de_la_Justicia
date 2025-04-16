@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "NPCs/Jarviks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Jarviks"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "NPCs/Jarviks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Jarviks"
             }
           },
           {
@@ -171,12 +171,12 @@
   },
   "active": "017720c379ffd006",
   "lastOpenFiles": [
+    "index.md",
     "NPCs/Morgana.md",
     "NPCs/Jarviks.md",
     "Lugares/Seliana.md",
     "Assets/Images/MHWI-Seliana.webp",
     "Assets/Images/Morgana.png",
-    "index.md",
     "NPCs.md",
     "category-folder/index.md",
     "category-folder/Some note.md",
