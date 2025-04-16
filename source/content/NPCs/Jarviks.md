@@ -5,7 +5,7 @@
 >### Alianzas
 >|Nombre|Status|
 >|---|---|
->|Ela|Viva|
+>|[[Ela]]|Viva|
 >|Stan-4|Vivo|
 >### Enemigos
 >|Nombre|Status|

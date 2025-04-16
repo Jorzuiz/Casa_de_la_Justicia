@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Jarviks.md",
+                "file": "Índice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jarviks"
+              "title": "Índice"
+            }
+          },
+          {
+            "id": "809f1401171deda3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Images/Smallen.webp"
+              },
+              "icon": "lucide-image",
+              "title": "Smallen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Jarviks.md",
+                "file": "Assets/Images/Smallen.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jarviks"
+              "title": "Backlinks for Smallen"
             }
           },
           {
@@ -169,11 +182,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "017720c379ffd006",
+  "active": "809f1401171deda3",
   "lastOpenFiles": [
-    "index.md",
+    "Lugares/Cosmódromo.md",
     "NPCs/Morgana.md",
+    "NPCs/Ela.md",
     "NPCs/Jarviks.md",
+    "Assets/Images/Abadía.jpeg",
+    "Objetos/Khostov 7G-x.md",
+    "Índice.md",
+    "Objetos",
+    "Assets/Images/Smallen.webp",
     "Lugares/Seliana.md",
     "Assets/Images/MHWI-Seliana.webp",
     "Assets/Images/Morgana.png",
@@ -181,7 +200,6 @@
     "category-folder/index.md",
     "category-folder/Some note.md",
     "Assets/Images/Theme of Seliana - Akihiko Narita.mp3",
-    "Untitled.md",
     "WorldBuilding/Seliana.md",
     "WorldBuilding",
     "Drafts/Seliana.md",
@@ -194,7 +212,6 @@
     "Assets",
     "Excalidraw/Drawing 2025-04-16 14.41.13.excalidraw.md",
     "NPCs",
-    "Untitled",
     "Excalidraw/Drawing 2025-04-16 14.40.53.excalidraw.md",
     "Excalidraw"
   ]
