@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Índice.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Índice"
-            }
-          },
-          {
-            "id": "809f1401171deda3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Images/Smallen.webp"
-              },
-              "icon": "lucide-image",
-              "title": "Smallen"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Images/Smallen.webp",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Smallen"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -182,17 +169,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "809f1401171deda3",
+  "active": "017720c379ffd006",
   "lastOpenFiles": [
+    "Link.md",
+    "index.md",
+    "Assets/Images/Smallen.webp",
     "Lugares/Cosmódromo.md",
     "NPCs/Morgana.md",
     "NPCs/Ela.md",
     "NPCs/Jarviks.md",
     "Assets/Images/Abadía.jpeg",
     "Objetos/Khostov 7G-x.md",
-    "Índice.md",
     "Objetos",
-    "Assets/Images/Smallen.webp",
     "Lugares/Seliana.md",
     "Assets/Images/MHWI-Seliana.webp",
     "Assets/Images/Morgana.png",

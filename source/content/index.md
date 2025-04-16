@@ -9,10 +9,10 @@ Jarviks speaking!
 ### Carpetas
 > [!kanban]+
 > - [[Jarviks|El precio del poder]]
-> 	- ![[Image.png]]
+> 	- ![[Jarviks.png]]
 > 	- [[Link|Card]]
-> - [[Link|Lane 2 Title]]
-> 	![[Image without background card styling.png]]
+> - [[Morgana|PROTECT THE SMALLEN]]
+> 	![[Smallen.webp]]
 > 	- [[Link|Card]]
 > - Text
 > 	- [ ] Text
