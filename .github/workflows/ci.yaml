@@ -58,7 +58,8 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-
+      - name: Fetch Quartz Theme
+        run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- its-theme
       - name: Build Quartz
         run: |
           npm install
