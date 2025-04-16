@@ -2,13 +2,13 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
- * Quartz 4.0 Configuration
+ * Quartz 4 Configuration
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Quartz 4",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -32,10 +32,10 @@ const config: QuartzConfig = {
           light: "#faf8f8",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
-          darkgray: "#0b0f13",
-          dark: "#642121",
-          secondary: "#3366cc",
-          tertiary: "#411a1e",
+          darkgray: "#4e4e4e",
+          dark: "#2b2b2b",
+          secondary: "#284b63",
+          tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
@@ -44,9 +44,9 @@ const config: QuartzConfig = {
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
-          dark: "#642121",
-          secondary: "#3366cc",
-          tertiary: "#411a1e",
+          dark: "#ebebec",
+          secondary: "#7b97aa",
+          tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
         },
@@ -57,7 +57,7 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "filesystem"],
+        priority: ["frontmatter", "git", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {
@@ -87,6 +87,8 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.NotFoundPage(),
+      // Comment out CustomOgImages to speed up build time
+      Plugin.CustomOgImages(),
     ],
   },
 }
