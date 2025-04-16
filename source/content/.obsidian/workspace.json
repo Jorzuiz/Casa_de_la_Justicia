@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jarviks.md",
-                "mode": "preview",
+                "file": "index.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jarviks"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jarviks.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jarviks"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jarviks.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Jarviks"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jarviks.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Jarviks"
+              "title": "Outline of index"
             }
           }
         ]
@@ -171,19 +171,31 @@
   },
   "active": "017720c379ffd006",
   "lastOpenFiles": [
+    "NPCs.md",
+    "index.md",
+    "category-folder/index.md",
+    "category-folder/Some note.md",
+    "Lugares/Seliana.md",
+    "NPCs/Jarviks.md",
+    "Assets/Images/Theme of Seliana - Akihiko Narita.mp3",
+    "NPCs/Morgana.md",
+    "Untitled.md",
+    "WorldBuilding/Seliana.md",
+    "WorldBuilding",
+    "Drafts/Seliana.md",
+    "Drafts",
+    "Assets/Images/MHWI-Seliana.webp",
+    "Untitled 1",
+    "Assets/Images/Morgana.png",
+    "Lugares",
     "Assets/Images/Jarviks.png",
     "Assets/Images/descarga.png",
     "Assets/Images",
     "Assets",
     "Excalidraw/Drawing 2025-04-16 14.41.13.excalidraw.md",
-    "Jarviks.md",
     "NPCs",
     "Untitled",
     "Excalidraw/Drawing 2025-04-16 14.40.53.excalidraw.md",
-    "category-folder/index.md",
-    "category-folder/Some note.md",
-    "index.md",
-    "Excalidraw",
-    "category-folder"
+    "Excalidraw"
   ]
 }
