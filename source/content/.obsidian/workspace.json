@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -171,8 +171,8 @@
   },
   "active": "017720c379ffd006",
   "lastOpenFiles": [
-    "NPCs.md",
     "index.md",
+    "NPCs.md",
     "category-folder/index.md",
     "category-folder/Some note.md",
     "Lugares/Seliana.md",

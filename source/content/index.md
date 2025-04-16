@@ -7,4 +7,5 @@ Hello world!
 Jarviks speaking!
 
 ### Carpetas
-[[NPCs]]
+[[Jarviks]]
+[[Seliana]]
