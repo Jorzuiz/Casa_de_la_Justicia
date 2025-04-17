@@ -15,4 +15,4 @@ Jarviks speaking!
 > 	![[Smallen.webp]]
 > 	- [[Link|Card]]
 > - Text
-> 	- [ ] Text
+> 	- [x] Text
