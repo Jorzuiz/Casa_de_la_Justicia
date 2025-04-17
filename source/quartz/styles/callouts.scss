@@ -113,6 +113,91 @@
     --callout-icon: var(--callout-icon-quote);
   }
 
+  &[data-callout="infobox"] {
+    --color: #4a90e2;
+    --border: #4a90e244;
+    --bg: #e8f0fe;
+    --infobox-title: #2a4a7b;
+  
+    background-color: var(--bg);
+    border: 1px solid var(--border);
+    padding: 1rem;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    float: right;
+    width: 300px;
+    margin: 0 0 1rem 1rem;
+    clear: right;
+  
+    h3 {
+      color: var(--infobox-title);
+      font-weight: 600;
+      font-size: 1rem;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0.25rem;
+      margin-top: 1rem;
+    }
+  
+    img {
+      display: block;
+      margin: 0 auto 0.5rem auto;
+      max-width: 100%;
+      border-radius: 4px;
+    }
+  
+    table {
+      width: 100%;
+      max-width: 100%;
+      border-collapse: collapse;
+      margin: 0;
+      padding: 0;
+    }
+
+    th, td {
+      padding: 4px 6px;
+      word-break: break-word;
+      overflow-wrap: break-word;
+      font-size: 0.85rem;
+      border: 1px solid var(--border);
+    }
+  
+      th {
+        background-color: #dce9ff;
+      }
+    
+  
+    @media screen and (max-width: 768px) {
+      float: none;
+      width: 100%;
+      margin: 1rem 0;
+    }
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    &[data-callout="infobox"] {
+      --bg: #1f2a36;
+      --border: #3b4a5a;
+      --color: #7ab4ff;
+      --infobox-title: #9dcaff;
+    }
+    &[data-callout="infobox"] .callout-title {
+      display: none;
+    }
+  
+    &[data-callout="infobox"] table th {
+      background-color: #2c3c50;
+    }
+  
+    &[data-callout="infobox"] table, 
+    &[data-callout="infobox"] th, 
+    &[data-callout="infobox"] td {
+      border-color: #4a5d74;
+    }
+  
+  
+  }
+  
+
   &.is-collapsed > .callout-title > .fold-callout-icon {
     transform: rotateZ(-90deg);
   }

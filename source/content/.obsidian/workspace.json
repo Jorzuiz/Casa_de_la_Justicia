@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "NPCs/Jarviks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Jarviks"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "NPCs/Jarviks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Jarviks"
             }
           },
           {
@@ -171,8 +171,8 @@
   },
   "active": "017720c379ffd006",
   "lastOpenFiles": [
-    "Link.md",
     "index.md",
+    "Link.md",
     "Assets/Images/Smallen.webp",
     "Lugares/Cosmódromo.md",
     "NPCs/Morgana.md",
