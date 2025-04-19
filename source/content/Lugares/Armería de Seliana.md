@@ -33,18 +33,17 @@ Puede que no esté tan bien suminsitrada, pero lo que le falta de calidad lo com
 
 
 
-|   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|
-|**Arma de fuego**|**Coste**|**Daño**|**Alcance (Mira)**|**Banda de alcance**|**Memory**|**Peso**|**Otras propiedades**|
-|Rifle de fusión|3,000 gl|2d6 (elemental)|15/25/30|Medio|4/1|18 lb.|Proyectiles de energía, sutileza, recarga, capacidad de disparo (5), a dos manos|
-|Lanzagranadas|3,500 gl|1d10 explosivo cinético|20/50/120|Medio|4/1|18 lb.|Sutileza, capacidad de disparo (4), especial, a dos manos|
-|Ametralladora ligera|3,750 gl|1d10 cinético|20/40/80|Corto|5/1|21 lb.|Fuego automático, alto retroceso, capacidad de disparo (5), a dos manos|
-|Rifle de fusión lineal|3,250 gl|2d6 (elemental)|15/120/340|Largo|4/1|12 lb.|Recarga, proyectiles de energía, capacidad de disparo (3), a dos manos|
-|Lanzacohetes|4,000 gl|2d10 explosivo cinético|30/50/80|Corto|5/1|25 lb.|Alto retroceso, pesado, recarga, carga útil (5 pies), capacidad de disparo (2), a dos manos|
-|Escopeta|3,000 gl|1d10 cinético|10/15/20|Corto|4/1|15 lb.|Alto retroceso, capacidad de disparo (5), a dos manos|
-|Rifle de francotirador|3,750 gl|1d10 cinético|0/300/600|Largo|5/1|12 lb.|Capacidad de disparo (5), a dos manos|
+|                        |           |                         |                    |                      |            |          |                                                                                             |
+| ---------------------- | --------- | ----------------------- | ------------------ | -------------------- | ---------- | -------- | ------------------------------------------------------------------------------------------- |
+| **Arma de fuego**      | **Coste** | **Daño**                | **Alcance (Mira)** | **Banda de alcance** | **Memory** | **Peso** | **Otras propiedades**                                                                       |
+| Rifle de fusión        | 3,000 gl  | 2d6 (elemental)         | 15/25/30           | Medio                | 4/1        | 18 lb.   | Proyectiles de energía, sutileza, recarga, capacidad de disparo (5), a dos manos            |
+| Lanzagranadas          | 3,500 gl  | 1d10 explosivo cinético | 20/50/120          | Medio                | 4/1        | 18 lb.   | Sutileza, capacidad de disparo (4), especial, a dos manos                                   |
+| Ametralladora ligera   | 3,750 gl  | 1d10 cinético           | 20/40/80           | Corto                | 5/1        | 21 lb.   | Fuego automático, alto retroceso, capacidad de disparo (5), a dos manos                     |
+| Rifle de fusión lineal | 3,250 gl  | 2d6 (elemental)         | 15/120/340         | Largo                | 4/1        | 12 lb.   | Recarga, proyectiles de energía, capacidad de disparo (3), a dos manos                      |
+| Lanzacohetes           | 4,000 gl  | 2d10 explosivo cinético | 30/50/80           | Corto                | 5/1        | 25 lb.   | Alto retroceso, pesado, recarga, carga útil (5 pies), capacidad de disparo (2), a dos manos |
+| Escopeta               | 3,000 gl  | 1d10 cinético           | 10/15/20           | Corto                | 4/1        | 15 lb.   | Alto retroceso, capacidad de disparo (5), a dos manos                                       |
+| Rifle de francotirador | 3,750 gl  | 1d10 cinético           | 0/300/600          | Largo                | 5/1        | 12 lb.   | Capacidad de disparo (5), a dos manos                                                       |
 
-¡Tabla lista! Espero que te sirva. ¿Necesitas algo más desde esta tarde ovetense? 😊
 
 
 ### Armamento Eliksni

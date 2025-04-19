@@ -1,1 +1,0 @@
-<img src="https://d1lss44hh2trtw.cloudfront.net/resize?type=webp&url=https%3A%2F%2Fshacknews-www.s3.amazonaws.com%2Fassets%2Farticle%2F2019%2F10%2F01%2Fget-the-khvostov-7g-02-in-destiny-2_feature.jpg&width=768&sign=FdmOHpAwe8wGrM_SbBRjpJbfYBXvnuGQ154oJLoJWyo">

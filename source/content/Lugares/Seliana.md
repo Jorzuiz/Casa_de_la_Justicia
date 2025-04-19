@@ -3,11 +3,11 @@
 >![[MHWI-Seliana.webp]]
 >![[Theme of Seliana - Akihiko Narita.mp3]]
 
-[Theme of Seliana](https://downloads.khinsider.com/game-soundtracks/album/monster-hunter-world-iceborne-original-soundtrack/1-10.%2520Frontier%2520Base%2520-%2520Seliana%2520Theme.mp3)
 
 
-
-Asentamiento fundado por la Casa de la Justicia a las afueras del Cosmódromo, antaño hervidero de actividad de Guardianes y Eliskni que buscaban una coesxistencia pacífica, tras la Guerra de los Seis Frentes quedó casi reducido a cenizas y que actualmente es hogar de los supervivientes de la Casa de la Justicia.
+Asentamiento fundado por la Casa de la Justicia a las afueras del Cosmódromo, Humanos y Eliskni que buscan una coesxistencia pacífica, actualmente es hogar de los supervivientes de la Casa de la Justicia.
+Actualmente acosado por la casa de los demonios
+Hace mucho que no se ven guardianes por seliana y están mas que encatados de oferecerles lo que puedan a cambio de proteccion.
 
 # Extracto
 
