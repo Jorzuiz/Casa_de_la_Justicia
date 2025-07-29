@@ -10,7 +10,7 @@
 >### Enemigos
 >|Nombre|Status|
 >|---|---|
->|Capitán desconocidoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa|Muerto|
+>|Capitán desconocido|Muerto|
 
 
 
